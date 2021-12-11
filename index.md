@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<!-- INSTRUCTIONS ARE TO KEEP IT AS FIRST ITEM INTO THE HEAD -->
+<html>
+<head>
 	
   <title>Felipe Gonzalez | Home</title>
 </head>
