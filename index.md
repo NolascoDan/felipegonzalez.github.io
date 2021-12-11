@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<!-- INSTRUCTIONS ARE TO KEEP IT AS FIRST ITEM INTO THE HEAD -->
+  <title>Felipe Gonzalez | Home</title>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+
 ## Felipe Gonzalez
 
 You can use the [editor on GitHub](https://github.com/NolascoDan/felipegonzalez.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -31,6 +45,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NolascoDan/felipegonzalez.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
 
 ### Support or Contact
 
