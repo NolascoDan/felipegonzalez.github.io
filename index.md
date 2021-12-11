@@ -4,8 +4,6 @@
 		<!-- INSTRUCTIONS ARE TO KEEP IT AS FIRST ITEM INTO THE HEAD -->
 	
   <title>Felipe Gonzalez | Home</title>
-<head>
-	<title></title>
 </head>
 <body>
 
