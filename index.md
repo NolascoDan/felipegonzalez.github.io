@@ -2,14 +2,6 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<!-- INSTRUCTIONS ARE TO KEEP IT AS FIRST ITEM INTO THE HEAD -->
-	<script async="" src="./Felipe Gonzalez_ Home_files/js"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-
-		  gtag('config', 'UA-16344709-2');
-		</script>
 	
   <title>Felipe Gonzalez | Home</title>
 <head>
